@@ -18,4 +18,5 @@ public class Zadanie {
 
         System.out.println(ob.toString());
     }
-}
+} 
+ 
