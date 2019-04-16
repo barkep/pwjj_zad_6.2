@@ -16,7 +16,12 @@ public class Zadanie {
 
         Object ob = m.odbierz();
 
+<<<<<<< HEAD
         System.out.println(ob.toString());  
     }
+=======
+        System.out.println(ob.toString());
+    }  
+>>>>>>> feature/2
 } 
  
