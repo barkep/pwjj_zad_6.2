@@ -1,6 +1,6 @@
 public class Zadanie {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
 
         Mapa m = new Mapa(2);
         Watek w1 = new WatekMapy(m, 1, "test1");
