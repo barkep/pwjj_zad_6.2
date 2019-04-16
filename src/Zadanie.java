@@ -17,5 +17,6 @@ public class Zadanie {
         Object ob = m.odbierz();
 
         System.out.println(ob.toString());
-    }
-}
+    }  
+} 
+ 
